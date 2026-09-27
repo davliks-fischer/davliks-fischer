@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on company [CMS](https://github.com/wentirto/advertising_user)
 
-
 <p align="left">
 </p>
 
