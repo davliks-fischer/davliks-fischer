@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on company [CMS](https://github.com/wentirto/advertising_user)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
