@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malik Fatih Akbar</h1>
 <h3 align="center">crazy person with big dreams</h3>
 
-- 🔭 I’m currently working on company [CMS](https://github.com/wentirto/advertising_user)
+- 🔭 I’m currently working on company [CMS](https://ckinovatif.co.id/)
 
 <p align="left">
 </p>
